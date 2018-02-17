@@ -9,3 +9,12 @@ install:
 # Build the website
 script:
   - binaries/hugo --theme=fresh
+
+# Deploy to GitHub pages
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: 23f1d1e2cfdbbc59aa0d914801743e6814f16a2f
+  local_dir: public
+  on:
+    branch: master
