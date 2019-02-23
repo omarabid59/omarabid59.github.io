@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Start Up on Omar Abid</title>
+    <link>https://omarabid59.github.io/tags/start-up/</link>
+    <description>Recent content in Start Up on Omar Abid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://omarabid59.github.io/tags/start-up/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Next AI</title>
+      <link>https://omarabid59.github.io/activities/a-next-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://omarabid59.github.io/activities/a-next-ai/</guid>
+      <description>NextAI 2018 is a Toronto based accelerator for early or idea stage AI-enabled startups. Made it to the finalist round among thousands of applications around the globe. Unfortunately, we were not shortlisted for proceeding into the next round. However, the connections and resources gained from the diverse set of individuals coming from a variety of different fields is indispensable.</description>
+    </item>
+    
+  </channel>
+</rss>
