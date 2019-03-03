@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses on Omar Abid</title>
-    <link>https://omarabid59.github.io/tags/courses/</link>
+    <link>https://omar-abid.ca/tags/courses/</link>
     <description>Recent content in Courses on Omar Abid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Feb 2017 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="https://omarabid59.github.io/tags/courses/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://omar-abid.ca/tags/courses/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Course Work</title>
-      <link>https://omarabid59.github.io/projects/course_work/</link>
+      <link>https://omar-abid.ca/projects/course_work/</link>
       <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
       
-      <guid>https://omarabid59.github.io/projects/course_work/</guid>
+      <guid>https://omar-abid.ca/projects/course_work/</guid>
       <description>Distributed Computing Instructor: Eric Rupert
 Description: Distributed computing is the study of how distributed networked computers pass messages, coordinate their actions. Such systems provide improved reliability and efficiency. Topics include GPU programming, synchronous and asynchronous systems, and computational complexity theory. Below you will find several assignments that were completed when taking this course.
  Two Generals Problem (Assignment, Solution) Asynchronous Processes (Assignment, Solution) Byzantine Failures (Assignment, Solution) K-set Consensus Problem (Assignment, Solution) Shared Memory System (Assignment, Solution)  Computer Vision Algorithm Comparison Instructor: Minas Setsakis Description: Test a variety of different feature extraction algorithms on real world images.</description>

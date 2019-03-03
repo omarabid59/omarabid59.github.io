@@ -3,205 +3,205 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://omarabid59.github.io/activities/a-next-ai/</loc>
+    <loc>https://omar-abid.ca/activities/a-next-ai/</loc>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/blog/post1/</loc>
+    <loc>https://omar-abid.ca/blog/post1/</loc>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/activities/b-hpc/</loc>
+    <loc>https://omar-abid.ca/activities/b-hpc/</loc>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/activities/volunteer-buskerfest/</loc>
+    <loc>https://omar-abid.ca/activities/volunteer-buskerfest/</loc>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/activities/volunteer-archangel/</loc>
+    <loc>https://omar-abid.ca/activities/volunteer-archangel/</loc>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/activities/startups/</loc>
+    <loc>https://omar-abid.ca/activities/startups/</loc>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/activities/teaching_experience/</loc>
+    <loc>https://omar-abid.ca/activities/teaching_experience/</loc>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/activities/research_assistant/</loc>
+    <loc>https://omar-abid.ca/activities/research_assistant/</loc>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/projects/</loc>
+    <loc>https://omar-abid.ca/projects/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/activities/</loc>
+    <loc>https://omar-abid.ca/activities/</loc>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/blog/</loc>
+    <loc>https://omar-abid.ca/blog/</loc>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/</loc>
+    <loc>https://omar-abid.ca/</loc>
     <lastmod>2019-02-10T18:56:13-05:00</lastmod>
     <priority>1</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/projects/attention_control_signals/</loc>
+    <loc>https://omar-abid.ca/projects/attention_control_signals/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/projects/hci/</loc>
+    <loc>https://omar-abid.ca/projects/hci/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/projects/course_work/</loc>
+    <loc>https://omar-abid.ca/projects/course_work/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/tags/attention/</loc>
-    <lastmod>2017-02-11T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://omarabid59.github.io/tags/c/c&#43;&#43;/</loc>
+    <loc>https://omar-abid.ca/tags/attention/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://omarabid59.github.io/tags/computer-vision/</loc>
+    <loc>https://omar-abid.ca/tags/c/c&#43;&#43;/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/tags/courses/</loc>
+    <loc>https://omar-abid.ca/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omar-abid.ca/tags/computer-vision/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/tags/electronics/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://omarabid59.github.io/tags/entrepreneurs/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://omarabid59.github.io/tags/machine-learning/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://omarabid59.github.io/tags/matlab/</loc>
+    <loc>https://omar-abid.ca/tags/courses/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/tags/neural-network/</loc>
+    <loc>https://omar-abid.ca/tags/electronics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omar-abid.ca/tags/entrepreneurs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omar-abid.ca/tags/machine-learning/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omar-abid.ca/tags/matlab/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/tags/neural-networks/</loc>
+    <loc>https://omar-abid.ca/tags/neural-network/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/tags/neuroscience/</loc>
+    <loc>https://omar-abid.ca/tags/neural-networks/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/tags/parallel-computing/</loc>
+    <loc>https://omar-abid.ca/tags/neuroscience/</loc>
+    <lastmod>2017-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/tags/research/</loc>
+    <loc>https://omar-abid.ca/tags/parallel-computing/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/search/</loc>
+    <loc>https://omar-abid.ca/tags/research/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omar-abid.ca/search/</loc>
     <priority>0.1</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/tags/sift-features/</loc>
+    <loc>https://omar-abid.ca/tags/sift-features/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/tags/start-up/</loc>
+    <loc>https://omar-abid.ca/tags/start-up/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/tags/startups/</loc>
+    <loc>https://omar-abid.ca/tags/startups/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/tags/svm/</loc>
+    <loc>https://omar-abid.ca/tags/svm/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/tags/</loc>
+    <loc>https://omar-abid.ca/tags/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/tags/teaching-assistant/</loc>
+    <loc>https://omar-abid.ca/tags/teaching-assistant/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/tags/tutor/</loc>
+    <loc>https://omar-abid.ca/tags/tutor/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://omarabid59.github.io/tags/volunteer/</loc>
+    <loc>https://omar-abid.ca/tags/volunteer/</loc>
     <priority>0</priority>
   </url>
   

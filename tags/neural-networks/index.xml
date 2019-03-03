@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neural Networks on Omar Abid</title>
-    <link>https://omarabid59.github.io/tags/neural-networks/</link>
+    <link>https://omar-abid.ca/tags/neural-networks/</link>
     <description>Recent content in Neural Networks on Omar Abid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Feb 2017 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="https://omarabid59.github.io/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://omar-abid.ca/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Computer Vision based hand mouse cursor system</title>
-      <link>https://omarabid59.github.io/projects/hci/</link>
+      <link>https://omar-abid.ca/projects/hci/</link>
       <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
       
-      <guid>https://omarabid59.github.io/projects/hci/</guid>
+      <guid>https://omar-abid.ca/projects/hci/</guid>
       <description>Instructor: Scott MacKenzie
 Design and implementation of a hand tracking and hand gesture classification system used to demonstrate it’s capability as an adjunct to a computer mouse. Link. Used several technologies for its implementation in Matlab:
  Image Processing Algorithms: Color segmentation, Background subtraction, Histogram of Gradient (HOG) feature extraction

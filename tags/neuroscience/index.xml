@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neuroscience on Omar Abid</title>
-    <link>https://omarabid59.github.io/tags/neuroscience/</link>
+    <link>https://omar-abid.ca/tags/neuroscience/</link>
     <description>Recent content in Neuroscience on Omar Abid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Feb 2017 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="https://omarabid59.github.io/tags/neuroscience/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://omar-abid.ca/tags/neuroscience/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Research Assistant</title>
-      <link>https://omarabid59.github.io/activities/research_assistant/</link>
+      <link>https://omar-abid.ca/activities/research_assistant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://omarabid59.github.io/activities/research_assistant/</guid>
+      <guid>https://omar-abid.ca/activities/research_assistant/</guid>
       <description>Research Assistant at York University Active and Attentive Vision Lab Supervisor: John K. Tsotsos Description&amp;ldquo;: Addition of new features to TarzaNN – a neural network simulator. Implemented in C++. Report can be found here.
 Electrophysiology Lab (October 2013 - April 2014) Supervisor: Roger Lewis Description&amp;ldquo;: Design and development of an electronic circuit for current-voltage measurements of Neurospora crassa hyphae. Report can be found here.
 Attention Learning Lab (April 2013 - August 2014) Supervisor: Thilo Womelsdorf Description&amp;ldquo;: Statistical EEG Data analysis of Macaque Monkeys for neural population decoding.</description>
@@ -24,10 +24,10 @@ Attention Learning Lab (April 2013 - August 2014) Supervisor: Thilo Womelsdorf D
     
     <item>
       <title>Attentional Control Signals, Poster Publication</title>
-      <link>https://omarabid59.github.io/projects/attention_control_signals/</link>
+      <link>https://omar-abid.ca/projects/attention_control_signals/</link>
       <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
       
-      <guid>https://omarabid59.github.io/projects/attention_control_signals/</guid>
+      <guid>https://omar-abid.ca/projects/attention_control_signals/</guid>
       <description>Publication: R. Sengupta, O. Abid, A. Bachoo, J.K. Tsotsos 2017. Attentional blink as a product of attentional control signals: A computational investigation, VSS 2017. [Link]. Implemented in C++ with TarzaNN framework. A video demonstration shows the GUI of the system processing a stream of input letters.</description>
     </item>
     
