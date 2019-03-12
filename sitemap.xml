@@ -80,7 +80,18 @@
   </url>
   
   <url>
+    <loc>https://omar-abid.ca/projects/roger_lew/</loc>
+    <lastmod>2017-02-11T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omar-abid.ca/tags/attention/</loc>
+    <lastmod>2017-02-11T12:41:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omar-abid.ca/tags/biophysics/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -104,6 +115,12 @@
   
   <url>
     <loc>https://omar-abid.ca/tags/courses/</loc>
+    <lastmod>2017-02-11T12:41:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omar-abid.ca/tags/electronic-circuits/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -197,6 +214,12 @@
   
   <url>
     <loc>https://omar-abid.ca/tags/tutor/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omar-abid.ca/tags/voltage-clamp/</loc>
+    <lastmod>2017-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   

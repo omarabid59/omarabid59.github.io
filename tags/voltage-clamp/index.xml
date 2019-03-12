@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Voltage Clamp on Omar Abid</title>
+    <link>https://omar-abid.ca/tags/voltage-clamp/</link>
+    <description>Recent content in Voltage Clamp on Omar Abid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Feb 2017 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://omar-abid.ca/tags/voltage-clamp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Voltage Clamp Instrument</title>
+      <link>https://omar-abid.ca/projects/roger_lew/</link>
+      <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/projects/roger_lew/</guid>
+      <description>Supervisor: Roger Lew
+Design, Fabrication and Testing of a New and Improved Voltage Clamp Instrument. The report can be found here.
+A picture of the completed circuit.
+The circuit we designed is shown below.</description>
+    </item>
+    
+  </channel>
+</rss>
