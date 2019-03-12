@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>LSD SLAM with color PointCloud visualizer</title>
+      <link>https://omar-abid.ca/projects/lsd_slam/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/projects/lsd_slam/</guid>
+      <description>A modification of a LSD SLAM repository to allow for PointCloud visualization with color. The full project can be found on GitHub.</description>
+    </item>
+    
+    <item>
       <title>TensorFlow Object Detection with Tracking</title>
       <link>https://omar-abid.ca/projects/deepsort_tracker_tensorflow/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
