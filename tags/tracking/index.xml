@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tracking on Omar Abid</title>
+    <link>https://omar-abid.ca/tags/tracking/</link>
+    <description>Recent content in Tracking on Omar Abid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://omar-abid.ca/tags/tracking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TensorFlow Object Detection with Tracking</title>
+      <link>https://omar-abid.ca/projects/deepsort_tracker_tensorflow/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/projects/deepsort_tracker_tensorflow/</guid>
+      <description>This repository is an implementation to perform realtime tracking with Tensorflow using a SSD model trained on the COCO dataset. It is based on the Simple Online and Realtime Tracking with a Deep Association Metric Deep SORT algorithm. The full project can be found on GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -84,6 +84,24 @@
     </item>
     
     <item>
+      <title>Google Cloud Platform Gcp</title>
+      <link>https://omar-abid.ca/tags/google-cloud-platform-gcp/</link>
+      <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/google-cloud-platform-gcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gpu</title>
+      <link>https://omar-abid.ca/tags/gpu/</link>
+      <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/gpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine Learning</title>
       <link>https://omar-abid.ca/tags/machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -113,7 +131,7 @@
     <item>
       <title>Neural Networks</title>
       <link>https://omar-abid.ca/tags/neural-networks/</link>
-      <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
       <guid>https://omar-abid.ca/tags/neural-networks/</guid>
       <description></description>
@@ -125,6 +143,15 @@
       <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
       
       <guid>https://omar-abid.ca/tags/neuroscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opencv</title>
+      <link>https://omar-abid.ca/tags/opencv/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/opencv/</guid>
       <description></description>
     </item>
     
@@ -192,11 +219,38 @@
     </item>
     
     <item>
+      <title>Tensorflow</title>
+      <link>https://omar-abid.ca/tags/tensorflow/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking</title>
+      <link>https://omar-abid.ca/tags/tracking/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tutor</title>
       <link>https://omar-abid.ca/tags/tutor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://omar-abid.ca/tags/tutor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>https://omar-abid.ca/tags/visualization/</link>
+      <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/visualization/</guid>
       <description></description>
     </item>
     

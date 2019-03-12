@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualization on Omar Abid</title>
+    <link>https://omar-abid.ca/tags/visualization/</link>
+    <description>Recent content in Visualization on Omar Abid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jan 2018 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://omar-abid.ca/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TensorFlow Layer Visualization</title>
+      <link>https://omar-abid.ca/projects/tensorflow_visualization/</link>
+      <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/projects/tensorflow_visualization/</guid>
+      <description>This repository provides a step by step guide for how to find layers in a neural network using TensorFlow and then visualize them as shown in the image below. The full project can be found on GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>
