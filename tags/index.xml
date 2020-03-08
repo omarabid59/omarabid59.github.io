@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Omar Abid</title>
@@ -12,11 +12,92 @@
     
     
     <item>
-      <title>3d Computer Vision</title>
+      <title>3D Computer Vision</title>
       <link>https://omar-abid.ca/tags/3d-computer-vision/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
       <guid>https://omar-abid.ca/tags/3d-computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Network</title>
+      <link>https://omar-abid.ca/tags/neural-network/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Networks</title>
+      <link>https://omar-abid.ca/tags/neural-networks/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenCV</title>
+      <link>https://omar-abid.ca/tags/opencv/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/opencv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SLAM</title>
+      <link>https://omar-abid.ca/tags/slam/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/slam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TensorFlow</title>
+      <link>https://omar-abid.ca/tags/tensorflow/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking</title>
+      <link>https://omar-abid.ca/tags/tracking/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Cloud Platform (GCP)</title>
+      <link>https://omar-abid.ca/tags/google-cloud-platform-gcp/</link>
+      <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/google-cloud-platform-gcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPU</title>
+      <link>https://omar-abid.ca/tags/gpu/</link>
+      <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/gpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>https://omar-abid.ca/tags/visualization/</link>
+      <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/visualization/</guid>
       <description></description>
     </item>
     
@@ -39,15 +120,6 @@
     </item>
     
     <item>
-      <title>C/C&#43;&#43;</title>
-      <link>https://omar-abid.ca/tags/c/c&#43;&#43;/</link>
-      <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
-      
-      <guid>https://omar-abid.ca/tags/c/c&#43;&#43;/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Computer Vision</title>
       <link>https://omar-abid.ca/tags/computer-vision/</link>
       <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
@@ -66,11 +138,65 @@
     </item>
     
     <item>
-      <title>Electronic Circuits</title>
+      <title>Electronic circuits</title>
       <link>https://omar-abid.ca/tags/electronic-circuits/</link>
       <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
       
       <guid>https://omar-abid.ca/tags/electronic-circuits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MATLAB</title>
+      <link>https://omar-abid.ca/tags/matlab/</link>
+      <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroscience</title>
+      <link>https://omar-abid.ca/tags/neuroscience/</link>
+      <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/neuroscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIFT Features</title>
+      <link>https://omar-abid.ca/tags/sift-features/</link>
+      <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/sift-features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVM</title>
+      <link>https://omar-abid.ca/tags/svm/</link>
+      <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voltage Clamp</title>
+      <link>https://omar-abid.ca/tags/voltage-clamp/</link>
+      <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/voltage-clamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C/C&#43;&#43;</title>
+      <link>https://omar-abid.ca/tags/c/c&#43;&#43;/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://omar-abid.ca/tags/c/c&#43;&#43;/</guid>
       <description></description>
     </item>
     
@@ -93,74 +219,11 @@
     </item>
     
     <item>
-      <title>Google Cloud Platform Gcp</title>
-      <link>https://omar-abid.ca/tags/google-cloud-platform-gcp/</link>
-      <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://omar-abid.ca/tags/google-cloud-platform-gcp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gpu</title>
-      <link>https://omar-abid.ca/tags/gpu/</link>
-      <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://omar-abid.ca/tags/gpu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Machine Learning</title>
       <link>https://omar-abid.ca/tags/machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://omar-abid.ca/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matlab</title>
-      <link>https://omar-abid.ca/tags/matlab/</link>
-      <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
-      
-      <guid>https://omar-abid.ca/tags/matlab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Network</title>
-      <link>https://omar-abid.ca/tags/neural-network/</link>
-      <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
-      
-      <guid>https://omar-abid.ca/tags/neural-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Networks</title>
-      <link>https://omar-abid.ca/tags/neural-networks/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://omar-abid.ca/tags/neural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neuroscience</title>
-      <link>https://omar-abid.ca/tags/neuroscience/</link>
-      <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
-      
-      <guid>https://omar-abid.ca/tags/neuroscience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Opencv</title>
-      <link>https://omar-abid.ca/tags/opencv/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://omar-abid.ca/tags/opencv/</guid>
       <description></description>
     </item>
     
@@ -183,25 +246,7 @@
     </item>
     
     <item>
-      <title>Sift Features</title>
-      <link>https://omar-abid.ca/tags/sift-features/</link>
-      <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
-      
-      <guid>https://omar-abid.ca/tags/sift-features/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slam</title>
-      <link>https://omar-abid.ca/tags/slam/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://omar-abid.ca/tags/slam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Start Up</title>
+      <title>Start-up</title>
       <link>https://omar-abid.ca/tags/start-up/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -219,15 +264,6 @@
     </item>
     
     <item>
-      <title>Svm</title>
-      <link>https://omar-abid.ca/tags/svm/</link>
-      <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
-      
-      <guid>https://omar-abid.ca/tags/svm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Teaching Assistant</title>
       <link>https://omar-abid.ca/tags/teaching-assistant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -237,47 +273,11 @@
     </item>
     
     <item>
-      <title>Tensorflow</title>
-      <link>https://omar-abid.ca/tags/tensorflow/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://omar-abid.ca/tags/tensorflow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tracking</title>
-      <link>https://omar-abid.ca/tags/tracking/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://omar-abid.ca/tags/tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tutor</title>
       <link>https://omar-abid.ca/tags/tutor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://omar-abid.ca/tags/tutor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visualization</title>
-      <link>https://omar-abid.ca/tags/visualization/</link>
-      <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://omar-abid.ca/tags/visualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Voltage Clamp</title>
-      <link>https://omar-abid.ca/tags/voltage-clamp/</link>
-      <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
-      
-      <guid>https://omar-abid.ca/tags/voltage-clamp/</guid>
       <description></description>
     </item>
     

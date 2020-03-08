@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Matlab on Omar Abid</title>
+    <title>MATLAB on Omar Abid</title>
     <link>https://omar-abid.ca/tags/matlab/</link>
-    <description>Recent content in Matlab on Omar Abid</description>
+    <description>Recent content in MATLAB on Omar Abid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Feb 2017 12:41:05 -0500</lastBuildDate>
@@ -19,9 +19,7 @@
       <guid>https://omar-abid.ca/projects/hci/</guid>
       <description>Instructor: Scott MacKenzie
 Design and implementation of a hand tracking and hand gesture classification system used to demonstrate it’s capability as an adjunct to a computer mouse. Link. Used several technologies for its implementation in Matlab:
- Image Processing Algorithms: Color segmentation, Background subtraction, Histogram of Gradient (HOG) feature extraction
- Hand Tracking Algorithm: Kalman Filter
- Real time Gesture Classification using Matlab’s Neural Network Toolbox  </description>
+ Image Processing Algorithms: Color segmentation, Background subtraction, Histogram of Gradient (HOG) feature extraction Hand Tracking Algorithm: Kalman Filter Real time Gesture Classification using Matlab’s Neural Network Toolbox  </description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Activities on Omar Abid</title>
@@ -75,8 +75,8 @@ EECS 3311 (January 2016 - August 2016) Software Design. Invigilate exams, tests 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://omar-abid.ca/activities/research_assistant/</guid>
-      <description>Research Assistant at York University Active and Attentive Vision Lab Supervisor: John K. Tsotsos Description&amp;ldquo;: Addition of new features to TarzaNN – a neural network simulator. Implemented in C++. Report can be found here.
-Electrophysiology Lab (October 2013 - April 2014) Supervisor: Roger Lewis Description&amp;ldquo;: Design and development of an electronic circuit for current-voltage measurements of Neurospora crassa hyphae. Report can be found here. For more information about the project, click here.</description>
+      <description>Research Assistant at York University Active and Attentive Vision Lab Supervisor: John K. Tsotsos Description&amp;quot;: Addition of new features to TarzaNN – a neural network simulator. Implemented in C++. Report can be found here.
+Electrophysiology Lab (October 2013 - April 2014) Supervisor: Roger Lewis Description&amp;quot;: Design and development of an electronic circuit for current-voltage measurements of Neurospora crassa hyphae. Report can be found here. For more information about the project, click here.</description>
     </item>
     
   </channel>

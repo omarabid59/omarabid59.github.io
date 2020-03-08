@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Volunteer on Omar Abid</title>
@@ -11,21 +11,21 @@
     
     
     <item>
-      <title>Archangel Summit 2017 Volunteer</title>
-      <link>https://omar-abid.ca/activities/volunteer-archangel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omar-abid.ca/activities/volunteer-archangel/</guid>
-      <description>This summit is the annual gathering of mission-driven entrepreneurs, leaders, and professionals who want to do well by doing good. As a volunteer helping ticket holders find their way through the venue, I had the opportunity to connect with highly motivated individuals.</description>
-    </item>
-    
-    <item>
       <title>Toronto Buskerfest Volunteer</title>
       <link>https://omar-abid.ca/activities/volunteer-buskerfest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://omar-abid.ca/activities/volunteer-buskerfest/</guid>
       <description>NextAI 2018 is a Toronto based accelerator for early or idea stage AI-enabled startups. Made it to the finalist round among thousands of applications around the globe. Unfortunately, we were not shortlisted for proceeding into the next round. However, the connections and resources gained from the diverse set of individuals coming from a variety of different fields is indispensable.</description>
+    </item>
+    
+    <item>
+      <title>Archangel Summit 2017 Volunteer</title>
+      <link>https://omar-abid.ca/activities/volunteer-archangel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://omar-abid.ca/activities/volunteer-archangel/</guid>
+      <description>This summit is the annual gathering of mission-driven entrepreneurs, leaders, and professionals who want to do well by doing good. As a volunteer helping ticket holders find their way through the venue, I had the opportunity to connect with highly motivated individuals.</description>
     </item>
     
   </channel>
