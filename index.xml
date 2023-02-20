@@ -2,30 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Omar Abid</title>
-    <link>https://omar-abid.ca/</link>
+    <link>/</link>
     <description>Recent content on Omar Abid</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 06 Mar 2019 18:56:13 -0500</lastBuildDate>
-    
-	<atom:link href="https://omar-abid.ca/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 06 Mar 2019 18:56:13 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Next AI 2018 Finalist</title>
-      <link>https://omar-abid.ca/activities/a-next-ai/</link>
+      <link>/activities/a-next-ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://omar-abid.ca/activities/a-next-ai/</guid>
+      <guid>/activities/a-next-ai/</guid>
       <description>NextAI 2018 is a Toronto based accelerator for early or idea stage AI-enabled startups. Made it to the finalist round among thousands of applications around the globe. Unfortunately, we were not shortlisted for proceeding into the next round. However, the connections and resources gained from the diverse set of individuals coming from a variety of different fields is indispensable.</description>
     </item>
     
     <item>
       <title>Blog Post 1</title>
-      <link>https://omar-abid.ca/blog/post1/</link>
+      <link>/blog/post1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://omar-abid.ca/blog/post1/</guid>
+      <guid>/blog/post1/</guid>
       <description>Biophysicist &amp;amp; Computer Scientist Machine Learning, Data Mining, Computer Vision, Medical Diagnostics
 Hi, my name is Omar Abid and I am a technology enthusiast with a strong interest in computer vision, machine learning, and electronics. I am a highly motivated individual and I believe that through collaboration, we as a human species can bring new innovations to make the world a better place.
 How can we use technology to improve patient outcomes?</description>
@@ -33,37 +28,37 @@ How can we use technology to improve patient outcomes?</description>
     
     <item>
       <title>High Performance Computing Summer 2014</title>
-      <link>https://omar-abid.ca/activities/b-hpc/</link>
+      <link>/activities/b-hpc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://omar-abid.ca/activities/b-hpc/</guid>
+      <guid>/activities/b-hpc/</guid>
       <description>NextAI 2018 is a Toronto based accelerator for early or idea stage AI-enabled startups. Made it to the finalist round among thousands of applications around the globe. Unfortunately, we were not shortlisted for proceeding into the next round. However, the connections and resources gained from the diverse set of individuals coming from a variety of different fields is indispensable.</description>
     </item>
     
     <item>
       <title>Toronto Buskerfest Volunteer</title>
-      <link>https://omar-abid.ca/activities/volunteer-buskerfest/</link>
+      <link>/activities/volunteer-buskerfest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://omar-abid.ca/activities/volunteer-buskerfest/</guid>
+      <guid>/activities/volunteer-buskerfest/</guid>
       <description>NextAI 2018 is a Toronto based accelerator for early or idea stage AI-enabled startups. Made it to the finalist round among thousands of applications around the globe. Unfortunately, we were not shortlisted for proceeding into the next round. However, the connections and resources gained from the diverse set of individuals coming from a variety of different fields is indispensable.</description>
     </item>
     
     <item>
       <title>Archangel Summit 2017 Volunteer</title>
-      <link>https://omar-abid.ca/activities/volunteer-archangel/</link>
+      <link>/activities/volunteer-archangel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://omar-abid.ca/activities/volunteer-archangel/</guid>
+      <guid>/activities/volunteer-archangel/</guid>
       <description>This summit is the annual gathering of mission-driven entrepreneurs, leaders, and professionals who want to do well by doing good. As a volunteer helping ticket holders find their way through the venue, I had the opportunity to connect with highly motivated individuals.</description>
     </item>
     
     <item>
       <title>Startups</title>
-      <link>https://omar-abid.ca/activities/startups/</link>
+      <link>/activities/startups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://omar-abid.ca/activities/startups/</guid>
+      <guid>/activities/startups/</guid>
       <description>I have also been part of the following startups.
 Delivery From Mars. An on campus food deliver application that uses a peer-to-peer network to connect individuals wanting food and grabbing food. Includes a rewards program to incentivize users to recurrently use the application.
 Fix My Tech Now. Provide software and hardware repairs for laptops, desktops, Xbox, Xbox 360 and PS3.
@@ -72,10 +67,10 @@ Bitcoin Arbitrage. Buy and sell bitcoins at a high profit margin.</description>
     
     <item>
       <title>Teaching Assistant and Tutoring</title>
-      <link>https://omar-abid.ca/activities/teaching_experience/</link>
+      <link>/activities/teaching_experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://omar-abid.ca/activities/teaching_experience/</guid>
+      <guid>/activities/teaching_experience/</guid>
       <description>Teaching Assistant at York University EECS 1011 (September 2016 - December 2016) Computational thinking through Mechatronics. Invigilate and mark labs in addition to providing a tutorial at the beginning of each lab.
 EECS 1570 (January 2016 - April 2016) Introduction to Computing for Psychology. Invigilate and mark labs in addition to providing a tutorial at the beginning of each lab.
 EECS 3311 (January 2016 - August 2016) Software Design. Invigilate exams, tests and quizzes as well as aid in marking of assignments, projects and exams.</description>
@@ -83,87 +78,87 @@ EECS 3311 (January 2016 - August 2016) Software Design. Invigilate exams, tests 
     
     <item>
       <title>Research Assistant</title>
-      <link>https://omar-abid.ca/activities/research_assistant/</link>
+      <link>/activities/research_assistant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://omar-abid.ca/activities/research_assistant/</guid>
+      <guid>/activities/research_assistant/</guid>
       <description>Research Assistant at York University Active and Attentive Vision Lab Supervisor: John K. Tsotsos Description&amp;quot;: Addition of new features to TarzaNN – a neural network simulator. Implemented in C++. Report can be found here.
 Electrophysiology Lab (October 2013 - April 2014) Supervisor: Roger Lewis Description&amp;quot;: Design and development of an electronic circuit for current-voltage measurements of Neurospora crassa hyphae. Report can be found here. For more information about the project, click here.</description>
     </item>
     
     <item>
       <title>LSD SLAM with color PointCloud visualizer</title>
-      <link>https://omar-abid.ca/projects/lsd_slam/</link>
+      <link>/projects/lsd_slam/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://omar-abid.ca/projects/lsd_slam/</guid>
+      <guid>/projects/lsd_slam/</guid>
       <description>A modification of a LSD SLAM repository to allow for PointCloud visualization with color. The full project can be found on GitHub.</description>
     </item>
     
     <item>
       <title>TensorFlow Object Detection with Tracking</title>
-      <link>https://omar-abid.ca/projects/deepsort_tracker_tensorflow/</link>
+      <link>/projects/deepsort_tracker_tensorflow/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://omar-abid.ca/projects/deepsort_tracker_tensorflow/</guid>
+      <guid>/projects/deepsort_tracker_tensorflow/</guid>
       <description>This repository is an implementation to perform realtime tracking with Tensorflow using a SSD model trained on the COCO dataset. It is based on the Simple Online and Realtime Tracking with a Deep Association Metric Deep SORT algorithm. The full project can be found on GitHub.</description>
     </item>
     
     <item>
       <title>Object Detection on Google Cloud Platform</title>
-      <link>https://omar-abid.ca/projects/google_cloud_object_detection/</link>
+      <link>/projects/google_cloud_object_detection/</link>
       <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://omar-abid.ca/projects/google_cloud_object_detection/</guid>
+      <guid>/projects/google_cloud_object_detection/</guid>
       <description>This repository demonstrates how one can do Object Detection in real time using GPUs that are available on Google Cloud for free using Google&amp;rsquo;s 1 year credits. We use a You Only Look Once archictecture for object detection that can be visualized in a web browser as shown below. The full project can be found on GitHub.</description>
     </item>
     
     <item>
       <title>TensorFlow Layer Visualization</title>
-      <link>https://omar-abid.ca/projects/tensorflow_visualization/</link>
+      <link>/projects/tensorflow_visualization/</link>
       <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://omar-abid.ca/projects/tensorflow_visualization/</guid>
+      <guid>/projects/tensorflow_visualization/</guid>
       <description>This repository provides a step by step guide for how to find layers in a neural network using TensorFlow and then visualize them as shown in the image below. The full project can be found on GitHub.</description>
     </item>
     
     <item>
       <title>Attentional Control Signals, Poster Publication</title>
-      <link>https://omar-abid.ca/projects/attention_control_signals/</link>
+      <link>/projects/attention_control_signals/</link>
       <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
       
-      <guid>https://omar-abid.ca/projects/attention_control_signals/</guid>
+      <guid>/projects/attention_control_signals/</guid>
       <description>Publication: R. Sengupta, O. Abid, A. Bachoo, J.K. Tsotsos 2017. Attentional blink as a product of attentional control signals: A computational investigation, VSS 2017. [Link]. Implemented in C++ with TarzaNN framework. A video demonstration shows the GUI of the system processing a stream of input letters.</description>
     </item>
     
     <item>
       <title>Computer Vision based hand mouse cursor system</title>
-      <link>https://omar-abid.ca/projects/hci/</link>
+      <link>/projects/hci/</link>
       <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
       
-      <guid>https://omar-abid.ca/projects/hci/</guid>
+      <guid>/projects/hci/</guid>
       <description>Instructor: Scott MacKenzie
 Design and implementation of a hand tracking and hand gesture classification system used to demonstrate it’s capability as an adjunct to a computer mouse. Link. Used several technologies for its implementation in Matlab:
- Image Processing Algorithms: Color segmentation, Background subtraction, Histogram of Gradient (HOG) feature extraction Hand Tracking Algorithm: Kalman Filter Real time Gesture Classification using Matlab’s Neural Network Toolbox  </description>
+Image Processing Algorithms: Color segmentation, Background subtraction, Histogram of Gradient (HOG) feature extraction Hand Tracking Algorithm: Kalman Filter Real time Gesture Classification using Matlab’s Neural Network Toolbox </description>
     </item>
     
     <item>
       <title>Course Work</title>
-      <link>https://omar-abid.ca/projects/course_work/</link>
+      <link>/projects/course_work/</link>
       <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
       
-      <guid>https://omar-abid.ca/projects/course_work/</guid>
+      <guid>/projects/course_work/</guid>
       <description>Distributed Computing Instructor: Eric Rupert
 Description: Distributed computing is the study of how distributed networked computers pass messages, coordinate their actions. Such systems provide improved reliability and efficiency. Topics include GPU programming, synchronous and asynchronous systems, and computational complexity theory. Below you will find several assignments that were completed when taking this course.
- Two Generals Problem (Assignment, Solution) Asynchronous Processes (Assignment, Solution) Byzantine Failures (Assignment, Solution) K-set Consensus Problem (Assignment, Solution) Shared Memory System (Assignment, Solution)  Computer Vision Algorithm Comparison Instructor: Minas Setsakis Description: Test a variety of different feature extraction algorithms on real world images.</description>
+Two Generals Problem (Assignment, Solution) Asynchronous Processes (Assignment, Solution) Byzantine Failures (Assignment, Solution) K-set Consensus Problem (Assignment, Solution) Shared Memory System (Assignment, Solution) Computer Vision Algorithm Comparison Instructor: Minas Setsakis Description: Test a variety of different feature extraction algorithms on real world images.</description>
     </item>
     
     <item>
       <title>Voltage Clamp Instrument</title>
-      <link>https://omar-abid.ca/projects/roger_lew/</link>
+      <link>/projects/roger_lew/</link>
       <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
       
-      <guid>https://omar-abid.ca/projects/roger_lew/</guid>
+      <guid>/projects/roger_lew/</guid>
       <description>Supervisor: Roger Lew
 Design, Fabrication and Testing of a New and Improved Voltage Clamp Instrument. The report can be found here.
 A picture of the completed circuit.
@@ -172,16 +167,34 @@ The circuit we designed is shown below.</description>
     
     <item>
       <title>Search Results</title>
-      <link>https://omar-abid.ca/search/</link>
+      <link>/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://omar-abid.ca/search/</guid>
+      <guid>/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
 Initial setup Search depends on additional output content type of JSON in config.toml
-[outputs] home = [&amp;quot;HTML&amp;quot;, &amp;quot;JSON&amp;quot;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+    <item>
+      <title>Surprise Surprise</title>
+      <link>/articles/article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/article/</guid>
+      <description>Thank you for your support! Hello. If you like this template, I&amp;rsquo;d be happy to get a coffee donation :)</description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>/projects/math-brain-trainer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/math-brain-trainer/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -2,20 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Omar Abid</title>
-    <link>https://omar-abid.ca/blog/</link>
+    <link>/blog/</link>
     <description>Recent content in Blog on Omar Abid</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://omar-abid.ca/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog Post 1</title>
-      <link>https://omar-abid.ca/blog/post1/</link>
+      <link>/blog/post1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://omar-abid.ca/blog/post1/</guid>
+      <guid>/blog/post1/</guid>
       <description>Biophysicist &amp;amp; Computer Scientist Machine Learning, Data Mining, Computer Vision, Medical Diagnostics
 Hi, my name is Omar Abid and I am a technology enthusiast with a strong interest in computer vision, machine learning, and electronics. I am a highly motivated individual and I believe that through collaboration, we as a human species can bring new innovations to make the world a better place.
 How can we use technology to improve patient outcomes?</description>

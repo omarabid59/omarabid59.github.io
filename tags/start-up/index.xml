@@ -2,20 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Start-up on Omar Abid</title>
-    <link>https://omar-abid.ca/tags/start-up/</link>
+    <link>/tags/start-up/</link>
     <description>Recent content in Start-up on Omar Abid</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://omar-abid.ca/tags/start-up/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/tags/start-up/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Next AI 2018 Finalist</title>
-      <link>https://omar-abid.ca/activities/a-next-ai/</link>
+      <link>/activities/a-next-ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://omar-abid.ca/activities/a-next-ai/</guid>
+      <guid>/activities/a-next-ai/</guid>
       <description>NextAI 2018 is a Toronto based accelerator for early or idea stage AI-enabled startups. Made it to the finalist round among thousands of applications around the globe. Unfortunately, we were not shortlisted for proceeding into the next round. However, the connections and resources gained from the diverse set of individuals coming from a variety of different fields is indispensable.</description>
     </item>
     

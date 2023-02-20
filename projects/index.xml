@@ -2,92 +2,96 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Omar Abid</title>
-    <link>https://omar-abid.ca/projects/</link>
+    <link>/projects/</link>
     <description>Recent content in Projects on Omar Abid</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
-    
-	<atom:link href="https://omar-abid.ca/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LSD SLAM with color PointCloud visualizer</title>
-      <link>https://omar-abid.ca/projects/lsd_slam/</link>
+      <link>/projects/lsd_slam/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://omar-abid.ca/projects/lsd_slam/</guid>
+      <guid>/projects/lsd_slam/</guid>
       <description>A modification of a LSD SLAM repository to allow for PointCloud visualization with color. The full project can be found on GitHub.</description>
     </item>
     
     <item>
       <title>TensorFlow Object Detection with Tracking</title>
-      <link>https://omar-abid.ca/projects/deepsort_tracker_tensorflow/</link>
+      <link>/projects/deepsort_tracker_tensorflow/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://omar-abid.ca/projects/deepsort_tracker_tensorflow/</guid>
+      <guid>/projects/deepsort_tracker_tensorflow/</guid>
       <description>This repository is an implementation to perform realtime tracking with Tensorflow using a SSD model trained on the COCO dataset. It is based on the Simple Online and Realtime Tracking with a Deep Association Metric Deep SORT algorithm. The full project can be found on GitHub.</description>
     </item>
     
     <item>
       <title>Object Detection on Google Cloud Platform</title>
-      <link>https://omar-abid.ca/projects/google_cloud_object_detection/</link>
+      <link>/projects/google_cloud_object_detection/</link>
       <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://omar-abid.ca/projects/google_cloud_object_detection/</guid>
+      <guid>/projects/google_cloud_object_detection/</guid>
       <description>This repository demonstrates how one can do Object Detection in real time using GPUs that are available on Google Cloud for free using Google&amp;rsquo;s 1 year credits. We use a You Only Look Once archictecture for object detection that can be visualized in a web browser as shown below. The full project can be found on GitHub.</description>
     </item>
     
     <item>
       <title>TensorFlow Layer Visualization</title>
-      <link>https://omar-abid.ca/projects/tensorflow_visualization/</link>
+      <link>/projects/tensorflow_visualization/</link>
       <pubDate>Thu, 11 Jan 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://omar-abid.ca/projects/tensorflow_visualization/</guid>
+      <guid>/projects/tensorflow_visualization/</guid>
       <description>This repository provides a step by step guide for how to find layers in a neural network using TensorFlow and then visualize them as shown in the image below. The full project can be found on GitHub.</description>
     </item>
     
     <item>
       <title>Attentional Control Signals, Poster Publication</title>
-      <link>https://omar-abid.ca/projects/attention_control_signals/</link>
+      <link>/projects/attention_control_signals/</link>
       <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
       
-      <guid>https://omar-abid.ca/projects/attention_control_signals/</guid>
+      <guid>/projects/attention_control_signals/</guid>
       <description>Publication: R. Sengupta, O. Abid, A. Bachoo, J.K. Tsotsos 2017. Attentional blink as a product of attentional control signals: A computational investigation, VSS 2017. [Link]. Implemented in C++ with TarzaNN framework. A video demonstration shows the GUI of the system processing a stream of input letters.</description>
     </item>
     
     <item>
       <title>Computer Vision based hand mouse cursor system</title>
-      <link>https://omar-abid.ca/projects/hci/</link>
+      <link>/projects/hci/</link>
       <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
       
-      <guid>https://omar-abid.ca/projects/hci/</guid>
+      <guid>/projects/hci/</guid>
       <description>Instructor: Scott MacKenzie
 Design and implementation of a hand tracking and hand gesture classification system used to demonstrate it’s capability as an adjunct to a computer mouse. Link. Used several technologies for its implementation in Matlab:
- Image Processing Algorithms: Color segmentation, Background subtraction, Histogram of Gradient (HOG) feature extraction Hand Tracking Algorithm: Kalman Filter Real time Gesture Classification using Matlab’s Neural Network Toolbox  </description>
+Image Processing Algorithms: Color segmentation, Background subtraction, Histogram of Gradient (HOG) feature extraction Hand Tracking Algorithm: Kalman Filter Real time Gesture Classification using Matlab’s Neural Network Toolbox </description>
     </item>
     
     <item>
       <title>Course Work</title>
-      <link>https://omar-abid.ca/projects/course_work/</link>
+      <link>/projects/course_work/</link>
       <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
       
-      <guid>https://omar-abid.ca/projects/course_work/</guid>
+      <guid>/projects/course_work/</guid>
       <description>Distributed Computing Instructor: Eric Rupert
 Description: Distributed computing is the study of how distributed networked computers pass messages, coordinate their actions. Such systems provide improved reliability and efficiency. Topics include GPU programming, synchronous and asynchronous systems, and computational complexity theory. Below you will find several assignments that were completed when taking this course.
- Two Generals Problem (Assignment, Solution) Asynchronous Processes (Assignment, Solution) Byzantine Failures (Assignment, Solution) K-set Consensus Problem (Assignment, Solution) Shared Memory System (Assignment, Solution)  Computer Vision Algorithm Comparison Instructor: Minas Setsakis Description: Test a variety of different feature extraction algorithms on real world images.</description>
+Two Generals Problem (Assignment, Solution) Asynchronous Processes (Assignment, Solution) Byzantine Failures (Assignment, Solution) K-set Consensus Problem (Assignment, Solution) Shared Memory System (Assignment, Solution) Computer Vision Algorithm Comparison Instructor: Minas Setsakis Description: Test a variety of different feature extraction algorithms on real world images.</description>
     </item>
     
     <item>
       <title>Voltage Clamp Instrument</title>
-      <link>https://omar-abid.ca/projects/roger_lew/</link>
+      <link>/projects/roger_lew/</link>
       <pubDate>Sat, 11 Feb 2017 12:41:05 -0500</pubDate>
       
-      <guid>https://omar-abid.ca/projects/roger_lew/</guid>
+      <guid>/projects/roger_lew/</guid>
       <description>Supervisor: Roger Lew
 Design, Fabrication and Testing of a New and Improved Voltage Clamp Instrument. The report can be found here.
 A picture of the completed circuit.
 The circuit we designed is shown below.</description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>/projects/math-brain-trainer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/math-brain-trainer/</guid>
+      <description></description>
     </item>
     
   </channel>

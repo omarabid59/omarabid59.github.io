@@ -2,20 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching Assistant on Omar Abid</title>
-    <link>https://omar-abid.ca/tags/teaching-assistant/</link>
+    <link>/tags/teaching-assistant/</link>
     <description>Recent content in Teaching Assistant on Omar Abid</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://omar-abid.ca/tags/teaching-assistant/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/tags/teaching-assistant/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teaching Assistant and Tutoring</title>
-      <link>https://omar-abid.ca/activities/teaching_experience/</link>
+      <link>/activities/teaching_experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://omar-abid.ca/activities/teaching_experience/</guid>
+      <guid>/activities/teaching_experience/</guid>
       <description>Teaching Assistant at York University EECS 1011 (September 2016 - December 2016) Computational thinking through Mechatronics. Invigilate and mark labs in addition to providing a tutorial at the beginning of each lab.
 EECS 1570 (January 2016 - April 2016) Introduction to Computing for Psychology. Invigilate and mark labs in addition to providing a tutorial at the beginning of each lab.
 EECS 3311 (January 2016 - August 2016) Software Design. Invigilate exams, tests and quizzes as well as aid in marking of assignments, projects and exams.</description>

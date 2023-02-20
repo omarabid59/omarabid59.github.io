@@ -1,265 +1,165 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://omar-abid.ca/activities/a-next-ai/</loc>
+    <loc>/activities/a-next-ai/</loc>
     <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/blog/post1/</loc>
+  </url><url>
+    <loc>/blog/post1/</loc>
     <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/activities/b-hpc/</loc>
+  </url><url>
+    <loc>/activities/b-hpc/</loc>
     <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/activities/volunteer-buskerfest/</loc>
+  </url><url>
+    <loc>/activities/volunteer-buskerfest/</loc>
     <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/activities/volunteer-archangel/</loc>
+  </url><url>
+    <loc>/activities/volunteer-archangel/</loc>
     <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/activities/startups/</loc>
+  </url><url>
+    <loc>/activities/startups/</loc>
     <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/activities/teaching_experience/</loc>
+  </url><url>
+    <loc>/activities/teaching_experience/</loc>
     <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/activities/research_assistant/</loc>
+  </url><url>
+    <loc>/activities/research_assistant/</loc>
     <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/projects/</loc>
+  </url><url>
+    <loc>/projects/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/activities/</loc>
+  </url><url>
+    <loc>/activities/</loc>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/blog/</loc>
+  </url><url>
+    <loc>/blog/</loc>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/</loc>
+  </url><url>
+    <loc>/</loc>
     <lastmod>2019-03-06T18:56:13-05:00</lastmod>
     <priority>1</priority>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/3d-computer-vision/</loc>
+  </url><url>
+    <loc>/tags/3d-computer-vision/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/projects/lsd_slam/</loc>
+  </url><url>
+    <loc>/projects/lsd_slam/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/neural-network/</loc>
+  </url><url>
+    <loc>/tags/neural-networks/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/neural-networks/</loc>
+  </url><url>
+    <loc>/tags/opencv/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/opencv/</loc>
+  </url><url>
+    <loc>/tags/slam/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/slam/</loc>
+  </url><url>
+    <loc>/tags/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/</loc>
+  </url><url>
+    <loc>/tags/tensorflow/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/tensorflow/</loc>
+  </url><url>
+    <loc>/projects/deepsort_tracker_tensorflow/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/projects/deepsort_tracker_tensorflow/</loc>
+  </url><url>
+    <loc>/tags/tracking/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/tracking/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/google-cloud-platform-gcp/</loc>
+  </url><url>
+    <loc>/tags/google-cloud-platform-gcp/</loc>
     <lastmod>2018-01-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/gpu/</loc>
+  </url><url>
+    <loc>/tags/gpu/</loc>
     <lastmod>2018-01-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/projects/google_cloud_object_detection/</loc>
+  </url><url>
+    <loc>/projects/google_cloud_object_detection/</loc>
     <lastmod>2018-01-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/projects/tensorflow_visualization/</loc>
+  </url><url>
+    <loc>/projects/tensorflow_visualization/</loc>
     <lastmod>2018-01-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/visualization/</loc>
+  </url><url>
+    <loc>/tags/visualization/</loc>
     <lastmod>2018-01-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/attention/</loc>
+  </url><url>
+    <loc>/tags/attention/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/projects/attention_control_signals/</loc>
+  </url><url>
+    <loc>/projects/attention_control_signals/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/biophysics/</loc>
+  </url><url>
+    <loc>/tags/biophysics/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/computer-vision/</loc>
+  </url><url>
+    <loc>/tags/computer-vision/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/projects/hci/</loc>
+  </url><url>
+    <loc>/projects/hci/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/projects/course_work/</loc>
+  </url><url>
+    <loc>/projects/course_work/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/courses/</loc>
+  </url><url>
+    <loc>/tags/courses/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/electronic-circuits/</loc>
+  </url><url>
+    <loc>/tags/electronic-circuits/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/matlab/</loc>
+  </url><url>
+    <loc>/tags/matlab/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/neuroscience/</loc>
+  </url><url>
+    <loc>/tags/neural-network/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/sift-features/</loc>
+  </url><url>
+    <loc>/tags/neuroscience/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/svm/</loc>
+  </url><url>
+    <loc>/tags/sift-features/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/voltage-clamp/</loc>
+  </url><url>
+    <loc>/tags/svm/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/projects/roger_lew/</loc>
+  </url><url>
+    <loc>/tags/voltage-clamp/</loc>
     <lastmod>2017-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/c/c&#43;&#43;/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/electronics/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/entrepreneurs/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/machine-learning/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/parallel-computing/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/research/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/search/</loc>
+  </url><url>
+    <loc>/projects/roger_lew/</loc>
+    <lastmod>2017-02-11T12:41:05-05:00</lastmod>
+  </url><url>
+    <loc>/articles/</loc>
+  </url><url>
+    <loc>/tags/c/c&#43;&#43;/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/contact/</loc>
+  </url><url>
+    <loc>/tags/electronics/</loc>
+  </url><url>
+    <loc>/tags/entrepreneurs/</loc>
+  </url><url>
+    <loc>/tags/machine-learning/</loc>
+  </url><url>
+    <loc>/tags/parallel-computing/</loc>
+  </url><url>
+    <loc>/tags/research/</loc>
+  </url><url>
+    <loc>/search/</loc>
     <priority>0.1</priority>
+  </url><url>
+    <loc>/tags/start-up/</loc>
+  </url><url>
+    <loc>/tags/startups/</loc>
+  </url><url>
+    <loc>/articles/article/</loc>
+  </url><url>
+    <loc>/tags/teaching-assistant/</loc>
+  </url><url>
+    <loc>/projects/math-brain-trainer/</loc>
+  </url><url>
+    <loc>/tags/tutor/</loc>
+  </url><url>
+    <loc>/tags/volunteer/</loc>
   </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/start-up/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/startups/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/teaching-assistant/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/tutor/</loc>
-  </url>
-  
-  <url>
-    <loc>https://omar-abid.ca/tags/volunteer/</loc>
-  </url>
-  
 </urlset>

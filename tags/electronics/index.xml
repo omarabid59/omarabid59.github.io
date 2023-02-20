@@ -2,20 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Electronics on Omar Abid</title>
-    <link>https://omar-abid.ca/tags/electronics/</link>
+    <link>/tags/electronics/</link>
     <description>Recent content in Electronics on Omar Abid</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://omar-abid.ca/tags/electronics/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/tags/electronics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research Assistant</title>
-      <link>https://omar-abid.ca/activities/research_assistant/</link>
+      <link>/activities/research_assistant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://omar-abid.ca/activities/research_assistant/</guid>
+      <guid>/activities/research_assistant/</guid>
       <description>Research Assistant at York University Active and Attentive Vision Lab Supervisor: John K. Tsotsos Description&amp;quot;: Addition of new features to TarzaNN – a neural network simulator. Implemented in C++. Report can be found here.
 Electrophysiology Lab (October 2013 - April 2014) Supervisor: Roger Lewis Description&amp;quot;: Design and development of an electronic circuit for current-voltage measurements of Neurospora crassa hyphae. Report can be found here. For more information about the project, click here.</description>
     </item>
